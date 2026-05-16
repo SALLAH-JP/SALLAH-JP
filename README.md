@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Étudiant+ingénieur+en+dernière+année;Passionné+de+Robotique+%26+Intelligence+Artificielle;Créateur+de+systèmes+autonomes+🚀;Du+firmware+embarqué+à+l'interface+utilisateur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Final+Year+Engineering+Student;Passionate+about+Robotics+%26+AI;Building+Autonomous+Systems;From+Firmware+to+User+Interface" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -64,7 +64,7 @@ Mon terrain de jeu : l'intersection du **logiciel** et du **matériel** — robo
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SALLAH-JP&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=SALLAH-JP&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
