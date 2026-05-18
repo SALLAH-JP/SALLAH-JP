@@ -30,18 +30,18 @@ Mon terrain de jeu : l'intersection du **logiciel** et du **matériel** — robo
 
 **Langages**
 
-[![Langages](https://skillicons.dev/icons?i=python,cpp,c,js,ts,dart&perline=6)](https://skillicons.dev)
+[![Langages](https://skillicons.dev/icons?i=python,cpp,c,js,java&perline=6)](https://skillicons.dev)
 
 **IA, ML & Vision**
 
-[![IA](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=6)](https://skillicons.dev)
+[![IA](https://skillicons.dev/icons?i=opencv&perline=6)](https://skillicons.dev)
 
 &nbsp;![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 &nbsp;![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 **Backend & Frontend**
 
-[![Web](https://skillicons.dev/icons?i=flask,nodejs,react,flutter,html,css&perline=6)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=flask,nodejs,html,css&perline=6)](https://skillicons.dev)
 
 **Bases de données & Cloud**
 
@@ -58,16 +58,11 @@ Mon terrain de jeu : l'intersection du **logiciel** et du **matériel** — robo
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <a href="https://github.com/SALLAH-JP">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SALLAH-JP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
-  </a>
-  &nbsp;
+
   <a href="https://github.com/SALLAH-JP">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SALLAH-JP&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
   </a>
-</div>
 
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=SALLAH-JP&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
@@ -81,22 +76,6 @@ Mon terrain de jeu : l'intersection du **logiciel** et du **matériel** — robo
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SALLAH-JP/SALLAH-JP/output/github-contribution-grid-snake.svg"/>
     <img alt="snake animation des contributions GitHub" src="https://raw.githubusercontent.com/SALLAH-JP/SALLAH-JP/output/github-contribution-grid-snake.svg"/>
   </picture>
-</div>
-
----
-
-## 📈 Activité récente
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SALLAH-JP&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF" width="100%" alt="Graphe d'activité"/>
-</div>
-
----
-
-## 💡 Citation du jour
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Citation du jour"/>
 </div>
 
 ---
