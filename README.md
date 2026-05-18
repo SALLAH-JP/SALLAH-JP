@@ -82,7 +82,7 @@ Mon terrain de jeu : l'intersection du **logiciel** et du **matériel** — robo
 <div align="center">
 
 <a href="https://github.com/SALLAH-JP/MARC">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SALLAH-JP&repo=MARC&theme=tokyonight&hide_border=true" alt="MARC"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SALLAH-JP&repo=MARC&theme=tokyonight&hide_border=true&h=2" alt="MARC"/>
 </a>
 
 </div>
