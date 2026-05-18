@@ -58,12 +58,8 @@ Mon terrain de jeu : l'intersection du **logiciel** et du **matériel** — robo
 ## 📊 Statistiques GitHub
 
 <div align="center">
-
-  <a href="https://github.com/SALLAH-JP">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SALLAH-JP&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
-  </a>
-
-  <img src="https://streak-stats.demolab.com/?user=SALLAH-JP&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/SALLAH-JP"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SALLAH-JP&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" height="170" alt="Top Languages"/></a>
+  <img src="https://streak-stats.demolab.com/?user=SALLAH-JP&theme=tokyonight&hide_border=true&card_width=400" height="170" alt="GitHub Streak"/>
 </div>
 
 ---
