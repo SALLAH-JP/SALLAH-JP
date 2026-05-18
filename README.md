@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jean-Paul%20SALLAH&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Ingénieur%20IA%20%26%20Robotique%20🤖&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jean-Paul%20SALLAH&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Robotique%20%C2%B7%20Intelligence%20Artificielle&descAlignY=58&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Final+Year+Engineering+Student;Passionate+about+Robotics+%26+AI;Building+Autonomous+Systems;From+Firmware+to+User+Interface" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=L3+Informatique+Appliqu%C3%A9e+%40+UDM;Passionn%C3%A9+par+la+Robotique+et+l'IA;Construire+des+syst%C3%A8mes+autonomes;Du+firmware+%C3%A0+l'interface+utilisateur" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 À propos de moi
 
-Actuellement en dernière année d'ingénieur en **Informatique Appliquée** à l'Université des Mascareignes (Maurice).
+Actuellement en **3ème année de Licence en Informatique Appliquée** à l'Université des Mascareignes (Maurice).
 Mon prochain objectif : un **Master en Intelligence Artificielle et Robotique**.
 
 Mon terrain de jeu : l'intersection du **logiciel** et du **matériel** — robots autonomes, systèmes embarqués, vision par ordinateur, et intégration de **LLMs** dans des objets physiques pour créer des interactions naturelles.
@@ -58,9 +58,13 @@ Mon terrain de jeu : l'intersection du **logiciel** et du **matériel** — robo
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SALLAH-JP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+  <a href="https://github.com/SALLAH-JP">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SALLAH-JP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+  </a>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALLAH-JP&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+  <a href="https://github.com/SALLAH-JP">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SALLAH-JP&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+  </a>
 </div>
 
 <div align="center">
@@ -101,13 +105,15 @@ Mon terrain de jeu : l'intersection du **logiciel** et du **matériel** — robo
 
 <div align="center">
 
-[![MARC](https://github-readme-stats.vercel.app/api/pin/?username=SALLAH-JP&repo=MARC&theme=tokyonight&hide_border=true)](https://github.com/SALLAH-JP/MARC)
+<a href="https://github.com/SALLAH-JP/MARC">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SALLAH-JP&repo=MARC&theme=tokyonight&hide_border=true" alt="MARC"/>
+</a>
 
 </div>
 
 **🤖 MARC** — Robot guide autonome conçu pour le laboratoire de robotique de l'UDM.
 Navigation par suivi de ligne · Interaction vocale via LLM cloud · Expressions sur matrice LED · Supervision web temps réel.
-*Projet de fin d'études.*
+*Projet de fin de licence.*
 
 ---
 
@@ -119,7 +125,7 @@ Navigation par suivi de ligne · Interaction vocale via LLM cloud · Expressions
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean--Paul%20SALLAH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanpaul-sallah/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-SALLAH--JP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SALLAH-JP)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Discussion-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/23057965519)
 
 </div>
 
