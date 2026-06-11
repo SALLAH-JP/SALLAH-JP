@@ -24,37 +24,6 @@ Mon terrain de jeu : l'intersection du **logiciel** et du **matériel** — robo
 
 ---
 
-## 🛠️ Stack technique
-
-<div align="center">
-
-**Langages**
-
-[![Langages](https://skillicons.dev/icons?i=python,cpp,c,js,java&perline=6)](https://skillicons.dev)
-
-**IA, ML & Vision**
-
-[![IA](https://skillicons.dev/icons?i=opencv&perline=6)](https://skillicons.dev)
-
-&nbsp;![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-&nbsp;![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
-**Backend & Frontend**
-
-[![Web](https://skillicons.dev/icons?i=flask,nodejs,html,css&perline=6)](https://skillicons.dev)
-
-**Bases de données & Cloud**
-
-[![DB](https://skillicons.dev/icons?i=postgresql,firebase,sqlite&perline=6)](https://skillicons.dev)
-
-**Outils & DevOps**
-
-[![Outils](https://skillicons.dev/icons?i=linux,git,docker,vscode,arduino,raspberrypi&perline=6)](https://skillicons.dev)
-
-</div>
-
----
-
 ## 📊 Statistiques GitHub
 
 <div align="center">
