@@ -13,13 +13,13 @@
 ## 🧑‍💻 À propos de moi
 
 Actuellement en **3ème année de Licence en Informatique Appliquée** à l'Université des Mascareignes (Maurice).
-Mon prochain objectif : un **Master en Intelligence Artificielle et Robotique**.
+Mon prochain objectif : une **Ecole d'ingénieur en électronique et informatique**.
 
 Mon terrain de jeu : l'intersection du **logiciel** et du **matériel** — robots autonomes, systèmes embarqués, vision par ordinateur, et intégration de **LLMs** dans des objets physiques pour créer des interactions naturelles.
 
 - 🤖 Projet phare : **[MARC](https://github.com/SALLAH-JP/MARC)** — Robot guide autonome
 - 🌍 Basé à **Maurice (Île Maurice)**
-- 🎯 Prochain objectif : **Master IA & Robotique**
+- 🎯 Prochain objectif : **Ecole d'ingénieur en électronique et informatique**
 - 💬 N'hésitez pas à me parler de **Robotique, IA, Systèmes embarqués**
 
 ---
